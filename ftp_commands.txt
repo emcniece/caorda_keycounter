@@ -1,0 +1,8 @@
+keycounter
+Sidney.11022
+binary
+cd "/web/users/emcniece"
+lcd "C:\keycounter\data"
+mput *.csv
+close
+quit
